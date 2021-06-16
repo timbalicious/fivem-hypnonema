@@ -31,7 +31,7 @@ hypnonema_logging_enabled 'false'
 hypnonema_sync_interval '5000'
 
 -- Whether the command should be restricted or not
-hypnonema_restrict_command 'true'
+hypnonema_restrict_command 'false'
 
 --------------------------------------------
 --------------------------------------------
